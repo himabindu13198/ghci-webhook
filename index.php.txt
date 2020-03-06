@@ -13,5 +13,6 @@ else
 {
 echo "Method not allowed";
 }
+//new text added
 
 ?>
